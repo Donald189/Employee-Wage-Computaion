@@ -8,9 +8,9 @@ namespace EmployeeWage
         {
             //Console.WriteLine("Welcome to Employee Wage Computation");
 
-            EmployeeAttendance.PresentorAbsent();
+            //EmployeeAttendance.PresentorAbsent();
 
-            //EmployeeDailyWage.CalEmployee();
+            EmployeeDailyWage.CalEmployee();
 
             //EmpSwitchCase.CalEmployeeSwitch();
 
