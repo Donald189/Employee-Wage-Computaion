@@ -12,9 +12,9 @@ namespace EmployeeWage
 
             //EmployeeDailyWage.CalEmployee();
 
-            EmpSwitchCase.CalEmployeeSwitch();
+            //EmpSwitchCase.CalEmployeeSwitch();
 
-            //EmpWagePerMonth.CalEmployeeWagePerMonth();
+            EmpWagePerMonth.CalEmployeeWagePerMonth();
 
             //EmpMonthlyWageCalc.EmpWageCalcWithHoursOrDays();
             
