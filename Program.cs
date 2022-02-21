@@ -14,9 +14,9 @@ namespace EmployeeWage
 
             //EmpSwitchCase.CalEmployeeSwitch();
 
-            EmpWagePerMonth.CalEmployeeWagePerMonth();
+            //EmpWagePerMonth.CalEmployeeWagePerMonth();
 
-            //EmpMonthlyWageCalc.EmpWageCalcWithHoursOrDays();
+            EmpMonthlyWageCalc.EmpWageCalcWithHoursOrDays();
             
         }
     }
