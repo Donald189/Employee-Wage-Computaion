@@ -10,9 +10,9 @@ namespace EmployeeWage
 
             //EmployeeAttendance.PresentorAbsent();
 
-            EmployeeDailyWage.CalEmployee();
+            //EmployeeDailyWage.CalEmployee();
 
-            //EmpSwitchCase.CalEmployeeSwitch();
+            EmpSwitchCase.CalEmployeeSwitch();
 
             //EmpWagePerMonth.CalEmployeeWagePerMonth();
 
