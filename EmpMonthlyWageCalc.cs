@@ -8,6 +8,10 @@ namespace EmployeeWage
 {
     public class EmpMonthlyWageCalc
     {
+        /// <summary>
+        ///UC-3 Calculate the employee withrespect to Hours.
+        /// </summary>
+        
         public static void EmpWageCalcWithHoursOrDays()
         {
             int IS_PART_TIME = 1;
