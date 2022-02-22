@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace EmployeeWage
 {
+    /// <summary>
+    ///UC-3 Calculate the employee wage.
+    /// </summary>
     public class EmployeeDailyWage 
     {
         public static void CalEmployee()
