@@ -8,6 +8,10 @@ namespace EmployeeWage
 {
     public class EmpWagePerMonth
     {
+        /// <summary>
+        ///UC-3 Calculate the employee wage per month.
+        /// </summary>
+        
         public static void CalEmployeeWagePerMonth()
         {
             int IS_PART_TIME = 1;
