@@ -8,6 +8,10 @@ namespace EmployeeWage
 {
     public class EmpSwitchCase
     {
+        /// <summary>
+        ///UC-3 Calculate the employee wage using switch case.
+        /// </summary>
+        
         public const int IS_PART_TIME = 1;
         public const int IS_FULL_TIME = 2;
         public const int EMP_RATE_PER_HOUR = 20;
