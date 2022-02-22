@@ -10,7 +10,7 @@ namespace EmployeeWage
     {
         ///<summary>
         /// UC1- the employee present or not.
-        ///</summary
+        ///</summary>
         public static void PresentorAbsent()
         {
             Random random = new Random();
