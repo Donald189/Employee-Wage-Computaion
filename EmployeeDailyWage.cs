@@ -8,6 +8,9 @@ namespace EmployeeWage
 {
     public class EmployeeDailyWage 
     {
+        /// <summary>
+        ///UC-3 Calculate the employee wage.
+        /// </summary>
         public static void CalEmployee()
         {
             int IS_PART_TIME = 1;
